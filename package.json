@@ -1,0 +1,7 @@
+{
+  "name": "waybill_mock_server",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.4.5"
+  }
+}
